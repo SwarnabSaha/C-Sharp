@@ -1,0 +1,12 @@
+C:\Users\Asus\OneDrive\Desktop\C#\Gas n Go\bin\Debug\Gas n Go.exe.config
+C:\Users\Asus\OneDrive\Desktop\C#\Gas n Go\bin\Debug\Gas n Go.exe
+C:\Users\Asus\OneDrive\Desktop\C#\Gas n Go\bin\Debug\Gas n Go.pdb
+C:\Users\Asus\OneDrive\Desktop\C#\Gas n Go\obj\Debug\Gas n Go.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\C#\Gas n Go\obj\Debug\Gas_n_Go.Form1.resources
+C:\Users\Asus\OneDrive\Desktop\C#\Gas n Go\obj\Debug\Gas_n_Go.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Desktop\C#\Gas n Go\obj\Debug\Gas n Go.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Desktop\C#\Gas n Go\obj\Debug\Gas n Go.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\C#\Gas n Go\obj\Debug\Gas n Go.exe
+C:\Users\Asus\OneDrive\Desktop\C#\Gas n Go\obj\Debug\Gas n Go.pdb
+C:\Users\Asus\OneDrive\Desktop\C#\Gas n Go\obj\Debug\Gas_n_Go.Form2.resources
+C:\Users\Asus\OneDrive\Desktop\C#\Gas n Go\obj\Debug\Gas_n_Go.Form3.resources
